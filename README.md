@@ -22,24 +22,25 @@ cd happy-birthday
 ```
 
 #### Option A: Using Python (works if Python is installed)
-    ```bash
-    python3 -m http.server
-    ```
-    Then, open your browser and go to: http://localhost:8000
+    
+```bash
+python3 -m http.server
+ ```
+Then, open your browser and go to: http://localhost:8000
     
 #### Option B: Using Node.js (if you have Node installed)
-    Install http-server once:
+Install http-server once:
 
-    ```bash
-    npm install -g http-server
-    ```
+```bash
+npm install -g http-server
+ ```
     
-    Then run:
+Then run:
     
-    ```bash
-    http-server
-    ```
+ ```bash
+ http-server
+ ```
 
-    It will show something like:Starting up http-server at http://127.0.0.1:8080
-    Open that link in your browser. 
+It will show something like:Starting up http-server at http://127.0.0.1:8080
+Open that link in your browser. 
 

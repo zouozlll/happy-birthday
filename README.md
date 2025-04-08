@@ -24,7 +24,7 @@ Open your terminal and `cd` into the project directory:
 cd happy-birthday
 ```
 
-#### Option A: Using Python (works if Python is installed)
+#### Option A: Using Python (works if Python is installed) [我自己是用這個]
     
 ```bash
 python3 -m http.server

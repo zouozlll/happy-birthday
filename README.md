@@ -14,6 +14,9 @@ Responsive Birthday Card - Made with Jquery and CSS
 ## Step-by-Step: Run in Terminal (Using a Local HTTP Server)
 
 ### 1. Navigate to the project folder
+```bash
+git clone https://github.com/zouozlll/happy-birthday.git --branch wei
+```
 
 Open your terminal and `cd` into the project directory:
 

@@ -24,14 +24,14 @@ Open your terminal and `cd` into the project directory:
 cd happy-birthday
 ```
 
-#### Option A: Using Python (works if Python is installed) 
+#### 2.Option A: Using Python (works if Python is installed) 
     
 ```bash
 python3 -m http.server
  ```
 Then, open your browser and go to: http://localhost:8000
     
-#### Option B: Using Node.js (if you have Node installed)[我自己是用這個]
+#### 2.Option B: Using Node.js (if you have Node installed)[我自己是用這個]
 Install http-server once:
 
 ```bash
